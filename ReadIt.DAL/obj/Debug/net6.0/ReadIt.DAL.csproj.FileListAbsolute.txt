@@ -1,0 +1,14 @@
+C:\Users\Админ\source\repos\ReadIt\ReadIt.DAL\bin\Debug\net6.0\ReadIt.DAL.deps.json
+C:\Users\Админ\source\repos\ReadIt\ReadIt.DAL\bin\Debug\net6.0\ReadIt.DAL.runtimeconfig.json
+C:\Users\Админ\source\repos\ReadIt\ReadIt.DAL\bin\Debug\net6.0\ReadIt.DAL.dll
+C:\Users\Админ\source\repos\ReadIt\ReadIt.DAL\bin\Debug\net6.0\ReadIt.DAL.pdb
+C:\Users\Админ\source\repos\ReadIt\ReadIt.DAL\obj\Debug\net6.0\ReadIt.DAL.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\ReadIt\ReadIt.DAL\obj\Debug\net6.0\ReadIt.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\source\repos\ReadIt\ReadIt.DAL\obj\Debug\net6.0\ReadIt.DAL.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\ReadIt\ReadIt.DAL\obj\Debug\net6.0\ReadIt.DAL.AssemblyInfo.cs
+C:\Users\Админ\source\repos\ReadIt\ReadIt.DAL\obj\Debug\net6.0\ReadIt.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\ReadIt\ReadIt.DAL\obj\Debug\net6.0\ReadIt.DAL.dll
+C:\Users\Админ\source\repos\ReadIt\ReadIt.DAL\obj\Debug\net6.0\refint\ReadIt.DAL.dll
+C:\Users\Админ\source\repos\ReadIt\ReadIt.DAL\obj\Debug\net6.0\ReadIt.DAL.pdb
+C:\Users\Админ\source\repos\ReadIt\ReadIt.DAL\obj\Debug\net6.0\ReadIt.DAL.genruntimeconfig.cache
+C:\Users\Админ\source\repos\ReadIt\ReadIt.DAL\obj\Debug\net6.0\ref\ReadIt.DAL.dll

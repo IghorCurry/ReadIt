@@ -1,0 +1,17 @@
+C:\Users\Админ\source\repos\ReadIt\ReadIt.BLL\bin\Debug\net6.0\ReadIt.BLL.deps.json
+C:\Users\Админ\source\repos\ReadIt\ReadIt.BLL\bin\Debug\net6.0\ReadIt.BLL.runtimeconfig.json
+C:\Users\Админ\source\repos\ReadIt\ReadIt.BLL\bin\Debug\net6.0\ReadIt.BLL.dll
+C:\Users\Админ\source\repos\ReadIt\ReadIt.BLL\bin\Debug\net6.0\ReadIt.BLL.pdb
+C:\Users\Админ\source\repos\ReadIt\ReadIt.BLL\bin\Debug\net6.0\ReadIt.DAL.dll
+C:\Users\Админ\source\repos\ReadIt\ReadIt.BLL\bin\Debug\net6.0\ReadIt.DAL.pdb
+C:\Users\Админ\source\repos\ReadIt\ReadIt.BLL\obj\Debug\net6.0\ReadIt.BLL.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\ReadIt\ReadIt.BLL\obj\Debug\net6.0\ReadIt.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\source\repos\ReadIt\ReadIt.BLL\obj\Debug\net6.0\ReadIt.BLL.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\ReadIt\ReadIt.BLL\obj\Debug\net6.0\ReadIt.BLL.AssemblyInfo.cs
+C:\Users\Админ\source\repos\ReadIt\ReadIt.BLL\obj\Debug\net6.0\ReadIt.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\ReadIt\ReadIt.BLL\obj\Debug\net6.0\ReadIt.BLL.csproj.CopyComplete
+C:\Users\Админ\source\repos\ReadIt\ReadIt.BLL\obj\Debug\net6.0\ReadIt.BLL.dll
+C:\Users\Админ\source\repos\ReadIt\ReadIt.BLL\obj\Debug\net6.0\refint\ReadIt.BLL.dll
+C:\Users\Админ\source\repos\ReadIt\ReadIt.BLL\obj\Debug\net6.0\ReadIt.BLL.pdb
+C:\Users\Админ\source\repos\ReadIt\ReadIt.BLL\obj\Debug\net6.0\ReadIt.BLL.genruntimeconfig.cache
+C:\Users\Админ\source\repos\ReadIt\ReadIt.BLL\obj\Debug\net6.0\ref\ReadIt.BLL.dll
